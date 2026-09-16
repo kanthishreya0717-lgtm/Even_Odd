@@ -1,4 +1,4 @@
-printf("program to check even or odd")
+print("program to check even or odd")
 num = int(input("Enter a number: "))
 
 if num % 2 == 0:
